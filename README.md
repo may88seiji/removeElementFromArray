@@ -1,0 +1,2 @@
+# removeElementFromArray
+配列から目的の要素を取り除く
